@@ -16,7 +16,7 @@ A modern futuristic card UI design with glass / crystal effect.
 
 ## Preview
 
-![preview](crystal-cards_review.png)
+the pic in main branch...
 
 ## Installation
 
